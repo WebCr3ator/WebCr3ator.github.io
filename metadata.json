@@ -1,0 +1,6 @@
+{
+  "name": "Konkurencia Automata Szolárium Mór",
+  "description": "Modern automata szolárium stúdió Mór központjában Chocolate Brown csövekkel, álló és fekvő gépekkel, valamint prémium manikűr és műköröm szolgáltatással.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
